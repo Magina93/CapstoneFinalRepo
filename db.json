@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Fancy Stroller",
+      "price": 100,
+      "imageURL" : "https://m.media-amazon.com/images/I/61rzmQgiOPS._SL1202_.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Electronic Stroller",
+        "price": 90,
+        "imageURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1583445978-best-strollers-e-priam-electronic-stroller-1583445956.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Newborn Stroller",
+        "price": 80,
+        "imageURL": "https://images.ctfassets.net/50gzycvace50/9a161d80e4e7bb9935bb8e11584f2863e28ffc20cb631a1ddea6b242b68bfda8/4594045c1e1e1194036b34bd9e61293e/9a161d80e4e7bb9935bb8e11584f2863e28ffc20cb631a1ddea6b242b68bfda8.png?fl=progressive&fm=jpg&bg=rgb:f9f9f9&w=620&h=620"
+    },
+
+    {
+        "id": 4,
+        "name": "Stroller",
+        "price": 75,
+        "imageURL": "https://cdn.shopify.com/s/files/1/0115/4436/3089/products/ss76c81a.jpg?v=1600812697"
+    },
+    {
+        "id": 5,
+        "name": "Girly Crib",
+        "price": 55,
+        "imageURL": "http://images.lowes.com/product/converted/100294/1002944344_16095623.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Stylish Crib",
+        "price": 50,
+        "imageURL": "https://cdn.shopify.com/s/files/1/1101/4990/products/20170228035127-e2df31fe_1400x.jpg?v=1646694518"
+    },
+    {
+        "id": 7,
+        "name": "Spacious Crib",
+        "price": 45,
+        "imageURL": "https://bestbaby.gr/wp-content/uploads/2021/06/2703.jpg"
+    },
+    {
+        "id": 8,
+        "name": "White Soho Crib",
+        "price": 40,
+        "imageURL": "https://i5.walmartimages.com/asr/daa6a627-c1b3-4f9a-b27d-31c7b7407489.292fd522775ed6d43e711c866c8f51c0.jpeg"
+    }
+   
+]

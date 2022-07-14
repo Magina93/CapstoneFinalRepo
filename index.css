@@ -1,0 +1,21 @@
+body{
+    background-color: #f3d0c6;
+}
+.gear-card{
+    margin: 30px;
+    background-color: #f8e9e9;
+    
+
+}
+.gear-cover{
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+#gear-container{
+display: flex;
+flex-wrap: wrap;
+
+}
