@@ -11,6 +11,7 @@ function decrement(event) {
    const inputField = clickedBtn.nextElementSibling
    inputField.stepDown();
 }
+
 const gearContainer = document.querySelector('#gear-container')
 const form = document.querySelector('form')
 
